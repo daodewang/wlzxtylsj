@@ -1,0 +1,4 @@
+[general]
+name=plugin2
+description=Just a test
+code=plugtwo.Plugin2
